@@ -34,6 +34,13 @@ function App() {
       
       </Navbar>
       <div>
+      <img width="1000px" height="1000px" src="https://i.pinimg.com/originals/6e/d0/57/6ed057d833b0f8f0a200d11b4ad82ee8.gif" alt="..." class="rounded-bottom"></img>
+      </div>
+      <div>
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/ygritte-wilding-portraits-of-westeros-joseph-oland.jpg" alt="..." class="rounded-bottom"></img>
+      </div>
+     
+      <div>
 
         <ReactPlayer controls width="1000px" height="1000px" url="https://youtu.be/vlDzYIIOYmM" />
       
